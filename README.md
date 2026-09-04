@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/md/main/.github/assets/thumbnail.png" alt="md" width="100%">
+</p>
+
 # Your Project Name
 
 A short, clear description of what this repository does.

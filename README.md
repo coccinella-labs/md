@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/md/main/.github/assets/thumbnail.png" alt="md" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/md/main/.github/assets/thumbnail.png" alt="md" width="100%">
 </p>
 
 # Your Project Name
